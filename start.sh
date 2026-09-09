@@ -2,7 +2,7 @@
 
 MODEL_KEY="qwen3-vl-235b-a22b-thinking-heretic"
 MODEL_ID="qwen3-vl-heretic"
-CONTEXT=32768
+CONTEXT=65536
 
 MODEL_DIR="/workspace/.lmstudio/models/mradermacher/Qwen3-VL-235B-A22B-Thinking-heretic-GGUF"
 MODEL_NAME="Qwen3-VL-235B-A22B-Thinking-heretic.Q8_0.gguf"

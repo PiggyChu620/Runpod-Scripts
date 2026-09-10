@@ -12,7 +12,7 @@ MODEL_ID="qwen3-vl-heretic"
 CONTEXT=65536
 
 MODEL_DIR="/workspace/.lmstudio/models/mradermacher/Qwen3-VL-235B-A22B-Thinking-heretic-GGUF"
-MODEL_NAME="Qwen3-VL-235B-A22B-Thinking-heretic.Q8_0.gguf"
+MODEL_NAME="Qwen3-VL-235B-A22B-Thinking-heretic"
 MODEL_PATH="$MODEL_DIR/$MODEL_NAME"
 DISK_PATH="$MODEL_PATH.disk"
 EXPECTED_BYTES=249940106592
